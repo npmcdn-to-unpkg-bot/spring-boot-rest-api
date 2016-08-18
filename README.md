@@ -15,7 +15,7 @@ To query from command line:
 * `curl localhost:8080/api/products/{id}` *- view the product with the given id*
 
 
-Please refer to *'ProductApiApplicationTests'* for a more complete overview of the supported operations.
+Please refer to **'ProductApiApplicationTests'** for a more complete overview of the supported operations.
 
 
 *Note: The client will warn that Bootstrap requires JQuery - this can be safely ignored.*# Product-Api
