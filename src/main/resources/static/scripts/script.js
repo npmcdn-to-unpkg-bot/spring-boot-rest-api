@@ -64,7 +64,7 @@ class App extends React.Component {
 	render() {
 		return (
 		    <div>
-		    <h1>Envision</h1>
+		    <h1>Products</h1>
 		    <div className="container">
 		    <div className="row row-centered">
 		    <div className="col-xs-6 col-xs-offset-3">
