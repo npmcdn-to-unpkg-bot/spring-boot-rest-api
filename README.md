@@ -18,4 +18,4 @@ To query from command line:
 Please refer to **'ProductApiApplicationTests'** for a more complete overview of the supported operations.
 
 
-*Note: The client will warn that Bootstrap requires JQuery - this can be safely ignored.*# Product-Api
+*Note: The client will warn that Bootstrap requires JQuery - this can be safely ignored.*
